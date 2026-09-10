@@ -21,7 +21,5 @@ of software, AI, IoT, and design.
 ![](https://github-readme-stats.shion.dev/api?username=PamellaCodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PamellaCodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=PamellaCodes&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
