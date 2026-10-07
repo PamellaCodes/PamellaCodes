@@ -2,7 +2,7 @@
 
 ### ✦ Things I build
 
-`UI/UX` `IoT` `Embedded Systems` `Web Apps` `Machine Learning` `AI Systems`
+`UI/UX` `Web Apps` `IoT` `Embedded Systems` `Machine Learning` `AI Systems`
 
 🌐 **Personal Website:** [pamellazhr.com](https://www.pamellazhr.com/)<br/>
 💼  **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/pamellazahara/) <br/>
